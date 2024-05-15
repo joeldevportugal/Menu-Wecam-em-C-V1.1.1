@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu Webcam", "Menu Webcam\Menu Webcam.csproj", "{241E67C2-E2D0-4FC5-817C-7F4008B68B65}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Instalador\Instalador\Instalador.vdproj", "{1B6468F7-32D0-4AEB-A614-A536740153B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241E67C2-E2D0-4FC5-817C-7F4008B68B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241E67C2-E2D0-4FC5-817C-7F4008B68B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241E67C2-E2D0-4FC5-817C-7F4008B68B65}.Debug|x64.ActiveCfg = Debug|x64
+		{241E67C2-E2D0-4FC5-817C-7F4008B68B65}.Debug|x64.Build.0 = Debug|x64
+		{241E67C2-E2D0-4FC5-817C-7F4008B68B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241E67C2-E2D0-4FC5-817C-7F4008B68B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241E67C2-E2D0-4FC5-817C-7F4008B68B65}.Release|x64.ActiveCfg = Release|x64
+		{241E67C2-E2D0-4FC5-817C-7F4008B68B65}.Release|x64.Build.0 = Release|x64
+		{1B6468F7-32D0-4AEB-A614-A536740153B8}.Debug|Any CPU.ActiveCfg = Debug
+		{1B6468F7-32D0-4AEB-A614-A536740153B8}.Debug|x64.ActiveCfg = Debug
+		{1B6468F7-32D0-4AEB-A614-A536740153B8}.Release|Any CPU.ActiveCfg = Release
+		{1B6468F7-32D0-4AEB-A614-A536740153B8}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81BD31E8-E044-41B6-A7CC-64B61C14E596}
+	EndGlobalSection
+EndGlobal
