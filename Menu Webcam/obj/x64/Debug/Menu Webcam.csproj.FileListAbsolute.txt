@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\bin\x64\Debug\Menu Webcam.exe.config
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\bin\x64\Debug\Menu Webcam.exe
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\bin\x64\Debug\Menu Webcam.pdb
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\bin\x64\Debug\AForge.dll
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\bin\x64\Debug\AForge.Video.dll
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\bin\x64\Debug\AForge.xml
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\bin\x64\Debug\AForge.Video.xml
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\obj\x64\Debug\Menu Webcam.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\obj\x64\Debug\Menu_Webcam.Webcam.resources
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\obj\x64\Debug\Menu_Webcam.Properties.Resources.resources
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\obj\x64\Debug\Menu Webcam.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\obj\x64\Debug\Menu Webcam.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\obj\x64\Debug\Menu Web.FC425EE4.Up2Date
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\obj\x64\Debug\Menu Webcam.exe
+C:\Users\HP\Desktop\Comunidade DevC#\Menu Webcam\Menu Webcam\obj\x64\Debug\Menu Webcam.pdb
